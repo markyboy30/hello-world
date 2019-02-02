@@ -1,5 +1,3 @@
-# hello-world
-getting started 
 #starting with seive of erarosthenes
 
 # Python program to print all primes smaller than or equal to 
